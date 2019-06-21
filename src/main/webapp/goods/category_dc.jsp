@@ -5,9 +5,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<style>
+<!-- <style>
 @import url(//fonts.googleapis.com/earlyaccess/hanna.css);
-</style>
+</style> -->
 <link rel="stylesheet" type="text/css" href="../css/goods_list.css">
 </head>
 <body>
@@ -37,7 +37,7 @@
     <!-- 상품 한개(반복) -->
     <div class="product">
       <div class="product_img">
-        <img class="product_img" src="../image/masking_tape.jpg">
+        <img class="product_img" src="../img/masking_tape.jpg">
       </div>
       <div class="product_contents">
         <div class="product_name_div">
@@ -60,11 +60,11 @@
 <script>
 //카운트다운 영역
 jQuery('#countDown').countdown({
-    date: '06/20/2019 23:59:59',
-    offset: 9,
-    day: 'Day',
-    days: 'Days'
-  });
+	date: '06/20/2019 23:59:59',
+	offset: 9,
+	day: 'Day',
+	days: 'Days'
+});
 </script>
 
 

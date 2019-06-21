@@ -5,6 +5,9 @@
 <html>
 <head>
 <meta charset="UTF-8">
+<style>
+@import url(//fonts.googleapis.com/earlyaccess/hanna.css);
+</style>
 <link rel="stylesheet" type="text/css" href="../css/goods_list.css">
 </head>
 <body>
@@ -56,7 +59,7 @@
 		<!-- 상품 한개(반복) -->
 		<div class="product">
 			<div class="product_img">
-				<img class="product_img" src="../image/masking_tape.jpg">
+				<img class="product_img" src="../img/masking_tape.jpg">
 			</div>
 			<div class="product_contents">
 				<div class="product_name_div">

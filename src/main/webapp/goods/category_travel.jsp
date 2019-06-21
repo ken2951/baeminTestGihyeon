@@ -56,7 +56,7 @@
 		<!-- 상품 한개(반복) -->
 		<div class="product">
 			<div class="product_img">
-				<img class="product_img" src="../image/masking_tape.jpg">
+				<img class="product_img" src="../img/masking_tape.jpg">
 			</div>
 			<div class="product_contents">
 				<div class="product_name_div">
